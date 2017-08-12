@@ -1,0 +1,5 @@
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exemplo1/bin/Debug/Exemplo1.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exemplo1/bin/Debug/Exemplo1.pdb
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exemplo1/obj/x86/Debug/Exemplo1.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exemplo1/obj/x86/Debug/Exemplo1.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exemplo1/obj/x86/Debug/Exemplo1.pdb
